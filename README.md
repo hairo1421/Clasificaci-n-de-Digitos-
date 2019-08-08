@@ -5,7 +5,7 @@ of handwritten digits" de Yann LeCun, et. al con el fin de realizar la tarea de 
 
 * Se utiliza como clasificados un SVM
 
-* Utilizando el código de la aplicación en R shyni -proporcionado por el Dr. Victor de CIMAT Monterrey - se modifica para hacer uso de un clasificador.
+* Utilizando el código de la aplicación en R shiny -proporcionado por el Dr. Victor de CIMAT Monterrey - se modifica para hacer uso de un clasificador.
 
 Procedimiento:
 * Se importan los datos
