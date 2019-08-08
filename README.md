@@ -19,3 +19,6 @@ Instrucciones:
 * Abrir archivo R: "Digitos.R"
 * Correr y mover a su preferencia
 Nota: el código se encuentra comentado
+
+
+![App](C:\Users\h_air\Documents\MEGAsync\CIMAT MCE\Semestre_2\Ciencia de Datos\Tareas\Tarea 7\Tarea 7 Hairo Ulises Miranda Belmonte/imagen.png)
