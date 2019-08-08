@@ -10,7 +10,7 @@ of handwritten digits" de Yann LeCun, et. al con el fin de realizar la tarea de 
 Procedimiento:
 * Se importan los datos
 * Realizar reducción de dimensión con PCA
-* Seleccionar un número de componentes
+* Seleccionar un número de las componentes
 * Entrenar clasificador
 * Por medio de la App, introducir un número del 0 al 9
 * Obtener predicción
